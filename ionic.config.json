@@ -1,6 +1,9 @@
 {
   "name": "snoflakes",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular",
   "id": "bea2e3ff"
 }
